@@ -21,6 +21,7 @@ projects[plupload][version] = 1.6
 projects[plupload][subdir] = contrib
 
 ; Provides Media/File Entity/plupload integration
+projects[media_multiselect][type] = module
 projects[media_multiselect][subdir] = sandbox
 projects[media_multiselect][download][type] = git
 projects[media_multiselect][download][branch] = 7.x-1.x
