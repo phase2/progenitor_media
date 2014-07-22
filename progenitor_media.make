@@ -28,7 +28,7 @@ projects[media_multiselect][download][branch] = 7.x-1.x
 projects[media_multiselect][download][revision] = 7d445f3c1b39e95be3716e08e3b35467736fe9e6
 projects[media_multiselect][download][url] = http://git.drupal.org/sandbox/fangel/1652676.git
 
-projects[colorbox][version] = 2.4
+projects[colorbox][version] = 2.7
 projects[colorbox][subdir] = contrib
 
 projects[media_colorbox][version] = 1.x-dev
