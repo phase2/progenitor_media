@@ -1,7 +1,10 @@
 # Progenitor Media
 
-This Stack module provides the recipe for standard Media-module based
-asset handling and display.
+
+This [Progenitor Stack](http://github.com/phase2/progenitor) provides the
+dependencies and a module for standard Media-module based asset handling and display.
+
+**Warning: This project has not been used in practice yet, and is out of date.**
 
 ## Use Cases
 
