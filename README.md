@@ -17,10 +17,6 @@ dependencies and a module for standard Media-module based asset handling and dis
 * Leave the module enabled to rely on it for functionality or to mitigate database
   conflicts between the modules it recommends.
 
-## Maintainers
-
-* Adam Ross <aross@phase2technology.com>
-
 ## Keywords
 
 media, files, images, display
